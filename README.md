@@ -24,5 +24,4 @@ A simple Todo application built using the MERN stack:
 - **Frontend**: React, CSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **State Management**: React Hooks# todo-app
-# todo-app
+- **State Management**: React Hooks
